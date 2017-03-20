@@ -1,0 +1,10 @@
+crocodile
+elephant
+restaurant
+computer
+timetable
+wardrobe
+cutleries
+happiness
+refrigerator
+graveyard

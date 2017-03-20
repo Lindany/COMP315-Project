@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1489369612 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\arraytester.cpp
+	<iostream>
+	<windows.h>
+
+1489812717 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"Person.h"
+	"Person.h"
+	"Admin.h"
+	"Login.h"
+
+1489375019 c:\users\nothando\desktop\modules\comp315_codes\project_315\medium.txt
+
+1489374701 c:\users\nothando\desktop\modules\comp315_codes\project_315\difficult.txt
+
+1489806366 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\admin.cpp
+	"Admin.h"
+
+1489812943 c:\users\nothando\desktop\modules\comp315_codes\project_315\admin.h
+	"Person.h"
+
+1489803110 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\person.cpp
+	"Person.h"
+
+1489813323 c:\users\nothando\desktop\modules\comp315_codes\project_315\person.h
+	<string>
+
+1489809225 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\login.cpp
+	"Login.h"
+
+1489813068 c:\users\nothando\desktop\modules\comp315_codes\project_315\login.h
+	"Admin.h"
+
+1489804488 source:c:\users\nothando\desktop\modules\comp315_codes\project_315\player.cpp
+	"Player.h"
+
+1489813919 c:\users\nothando\desktop\modules\comp315_codes\project_315\player.h
+	"Person.h"
+	<string>
+
